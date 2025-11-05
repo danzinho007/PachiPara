@@ -1,4 +1,6 @@
-Série Pachi Para / Pachinko
+PachiPara_Jogos:
+
+https://en-wikipedia-org.translate.goog/wiki/PachiPara?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
 
 https://sites.google.com/view/caucucuncne?pli=1
 
@@ -6,17 +8,19 @@ https://www.amazon.co.jp/-/en/%E4%B8%89%E6%B4%8B%E3%83%91%E3%83%81%E3%83%B3%E3%8
 
 https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%81%E3%83%91%E3%83%A9%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA
 
-Pachinko Series " é o nome de uma série de simuladores de pachinko ( jogos de pachinko ) lançados pelo IREM . Existem atualmente 17 títulos numerados. Até o 11º jogo, o título era “Sanyo Pachinko Paradise”, mas a partir do 12º jogo o nome foi alterado para “Pachipara”.
+https://psnprofiles.com/series/696-pachi-para
 
-Inclui principalmente a ``Série Umi Monogatari'', uma série de pachinko feita pela Sanyo Bussan , um fabricante de pachinko que tem uma aliança corporativa com a Irem Software Engineering . Até o 7º jogo, era um simulador de pachinko normal, embora ocasionalmente incluísse um modo de história, mas a partir do 8º jogo, a versão para PlayStation 2 incluiu um modo de jogo completo ``Pachipro Fuunroku'' e expandiu a gama de volume .Ta.
+Pachinko Series " ï¿½ o nome de uma sï¿½rie de simuladores de pachinko ( jogos de pachinko ) lanï¿½ados pelo IREM . Existem atualmente 17 tï¿½tulos numerados. Atï¿½ o 11ï¿½ jogo, o tï¿½tulo era ï¿½Sanyo Pachinko Paradiseï¿½, mas a partir do 12ï¿½ jogo o nome foi alterado para ï¿½Pachiparaï¿½.
+
+Inclui principalmente a ``Sï¿½rie Umi Monogatari'', uma sï¿½rie de pachinko feita pela Sanyo Bussan , um fabricante de pachinko que tem uma alianï¿½a corporativa com a Irem Software Engineering . Atï¿½ o 7ï¿½ jogo, era um simulador de pachinko normal, embora ocasionalmente incluï¿½sse um modo de histï¿½ria, mas a partir do 8ï¿½ jogo, a versï¿½o para PlayStation 2 incluiu um modo de jogo completo ``Pachipro Fuunroku'' e expandiu a gama de volume .Ta.
 
 1999 :
 29/07 Sanyo Pachinko Paradise
 Plataforma : PS1
-Código : B00005OVDX
+Cï¿½digo : B00005OVDX
 18/11 ... ... Paradise 2 Umi Monogatari Special
 Plataforma : PS1 PSP
-Código : B00005OVAZ
+Cï¿½digo : B00005OVAZ
 
 2000 :
 09/03 ... ... Paradise 3
@@ -43,9 +47,12 @@ Plataforma : PS2
 24/02 ... ... Paradise 11 Shin Umi to Saraba Gindama
 15/12 PachiPara 12 Daikai to Natsu no Omoide
 Plataforma : PS2
+
 2006 : 
 26/10 ... 13 Super Umi To PachiPro Fuunroku
 Plataforma : PS2
+https://archive.org/details/pachi-para-13-super-umi-to-pachi-pro-fuuunroku-japan
+
 2007 :
 26/07 ... 14 Kaze to Kumo to Super Umi in Okinawa
 Plataforma : PS2
